@@ -1,12 +1,35 @@
-# Név — Rövid szakmai pitch
-# [YOUR NAME] — [SHORT PROFESSIONAL PITCH]
+# [Agnes Lilla Ladoczki-Szabo] — [Freelancer Software Tester]
 
-This README is a profile landing template. Replace the placeholders in square brackets with your own information.
+Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
+During this time, I gained hands-on experience through freelance manual testing projects,
+primarily via uTest.com and Testbirds.com. These projects involved executing test cases
+as well as exploratory testing, focusing on functional and usability aspects of various
+products.
+In the past year, I completed the Software Test Automation and Continuous Integration
+course at the University of Malta. This course provided me with a solid foundation in test
+automation, including hands-on experience with tools such as Selenium WebDriver,
+Cucumber, and Postman, as well as an introduction to the basics of CI/CD pipelines.
+I am currently pursuing a Bachelor of Science in Computer Science through distance
+learning, which predominantly requires weekend commitment. This flexible arrangement
+allows me to dedicate myself to afull-time junior testing or developer position where I can
+combine my acquired knowledge with practical experience and contribute to high-quality
+software development.
+
 ---
 
-## Short Introduction
+## Work Experience
 
-[Agnes Lilla Ladoczki-Szabo] — One-line professional pitch (e.g. "Frontend developer specializing in React and accessibility").
+Freelancer Software Tester
+2023 – 2025
+-Executed manual testing projects for various software products via
+crowdsourcing platforms, specifically uTest.com and Testbirds.com.
+-Performed functional and usability testing to ensure products met quality
+standards and user requirements.
+-Executed defined test cases to verify specific software functionalities.
+-Conducted exploratory testing to identify defects and assess the overall
+quality of products from a user perspective.
+-Documented, tracked, and reported defects and anomalies found during
+testing.
 ---
 
 ## Featured Projects
