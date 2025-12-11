@@ -100,11 +100,4 @@
 
 ---
 
-## Contact
-
-- Email: agneslilla.szabo@gmail.com
-- LinkedIn: https://linkedin.com/in/agnesengineer
-
----
-
 Updated: 2025-12-11
