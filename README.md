@@ -44,9 +44,9 @@ Short summary of your background and goals. Replace or shorten as you prefer.
     </td>
     <td align="center" width="33%">
       <img src="./assets/project2.svg" alt="project2" width="220" />
-      <p><strong>[PROJECT_NAME_2]</strong></p>
-      <p>[Short description 2]</p>
-      <p><a href="https://github.com/[YOUR]/[PROJECT2]">Repository</a></p>
+      <p><strong>BringMeHome</strong></p>
+      <p>A small project to help locate and manage pet information (frontend + backend demo).</p>
+      <p><a href="https://github.com/szludora/BringMeHome">Repository</a></p>
     </td>
     <td align="center" width="33%">
       <img src="./assets/project3.svg" alt="project3" width="220" />
@@ -75,7 +75,6 @@ Short summary of your background and goals. Replace or shorten as you prefer.
 
 - Email: agneslilla.szabo@gmail.com
 - LinkedIn: https://linkedin.com/in/agnesengineer
-- Website: https://[YOUR_USERNAME].github.io
 
 ---
 
