@@ -38,9 +38,9 @@ Short summary of your background and goals. Replace or shorten as you prefer.
   <tr>
     <td align="center" width="33%">
       <img src="./assets/project1.svg" alt="project1" width="220" />
-      <p><strong>[PROJECT_NAME_1]</strong></p>
-      <p>[Short description 1]</p>
-      <p><a href="https://github.com/[YOUR]/[PROJECT1]">Repository</a></p>
+      <p><strong>FrontEnd Application Development with React</strong></p>
+      <p>Ongoing: coursework and projects building React applications as part of the curriculum.</p>
+      <p><a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">Repository</a> · **Status:** <strong>In progress</strong></p>
     </td>
     <td align="center" width="33%">
       <img src="./assets/project2.svg" alt="project2" width="220" />
