@@ -96,7 +96,7 @@
 
 ## Download
 
-[Download: CV (PDF)](./assets/CV.pdf)
+[Download: CV (PDF)](./assets/AgnesCV.pdf)
 
 ---
 
