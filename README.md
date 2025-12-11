@@ -70,9 +70,9 @@ Short summary of your background and goals. Replace or shorten as you prefer.
     </td>
     <td align="center" width="33%">
       <img src="./assets/project6.svg" alt="project6" width="220" />
-      <p><strong>[PROJECT_NAME_6]</strong></p>
-      <p>[Short description 6]</p>
-      <p><a href="https://github.com/[YOUR]/[PROJECT6]">Repository</a></p>
+      <p><strong>The Complete 2024 Web Dev Bootcamp</strong></p>
+      <p>Collection of exercises and projects from the 2024 full-stack web development bootcamp.</p>
+      <p><a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">Repository</a></p>
     </td>
   </tr>
 </table>
