@@ -98,6 +98,6 @@ Updated: 2025-12-11
 
 ### 💻 Leggyakrabban Használt Nyelveim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=radical)](https://github.com/Magnetika)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**Magnetika**&layout=compact&theme=radical)](https://github.com/**Magnetika**)
 
 
