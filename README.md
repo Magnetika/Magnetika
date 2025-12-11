@@ -50,9 +50,9 @@ Short summary of your background and goals. Replace or shorten as you prefer.
     </td>
     <td align="center" width="33%">
       <img src="./assets/project3.svg" alt="project3" width="220" />
-      <p><strong>[PROJECT_NAME_3]</strong></p>
-      <p>[Short description 3]</p>
-      <p><a href="https://github.com/[YOUR]/[PROJECT3]">Repository</a></p>
+      <p><strong>Responsive Web Design — freeCodeCamp</strong></p>
+      <p>Collection of responsive web design projects and exercises (freeCodeCamp curriculum).</p>
+      <p><a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">Repository</a></p>
     </td>
   </tr>
 </table>
