@@ -95,11 +95,4 @@
 
 Updated: 2025-12-11
 
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magnetika&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnetika)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Magnetika)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Magnetika)
+[![Magnetika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnetika)](https://github.com/Magnetika/github-readme-stats)
