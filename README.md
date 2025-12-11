@@ -25,7 +25,7 @@
 ## Summary
 
 - Experienced in manual testing (functional, usability, exploratory)
-- Training: Software Test Automation & CI (Selenium WebDriver, Cucumber, Postman)
+- Training: Software Test Automation & CI/CD (Selenium WebDriver, Cucumber, Postman)
 - Currently studying BSc Computer Science
 
 ---
