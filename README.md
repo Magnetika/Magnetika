@@ -79,6 +79,4 @@ Short summary of your background and goals. Replace or shorten as you prefer.
 
 ---
 
-_Tips_: replace `./assets/*.svg` placeholders with screenshots or GIFs of your projects; shorten the intro if you prefer a minimal landing.
-
 Updated: 2025-12-11
