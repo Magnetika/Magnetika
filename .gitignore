@@ -1,0 +1,11 @@
+# Ignore macOS files
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# VSCode
+.vscode/
+
+# Build output
+dist/
