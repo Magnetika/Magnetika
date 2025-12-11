@@ -55,6 +55,26 @@ Short summary of your background and goals. Replace or shorten as you prefer.
       <p><a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">Repository</a></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/project4.svg" alt="project4" width="220" />
+      <p><strong>Python — Zero to Hero</strong></p>
+      <p>Exercises and small projects covering Python fundamentals up to intermediate topics.</p>
+      <p><a href="https://github.com/Magnetika/Python_zero_to_hero">Repository</a></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/project5.svg" alt="project5" width="220" />
+      <p><strong>[PROJECT_NAME_5]</strong></p>
+      <p>[Short description 5]</p>
+      <p><a href="https://github.com/[YOUR]/[PROJECT5]">Repository</a></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/project6.svg" alt="project6" width="220" />
+      <p><strong>[PROJECT_NAME_6]</strong></p>
+      <p>[Short description 6]</p>
+      <p><a href="https://github.com/[YOUR]/[PROJECT6]">Repository</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
