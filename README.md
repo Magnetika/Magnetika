@@ -24,8 +24,6 @@
 
 ## Summary
 
-Short summary of your background and goals. Replace or shorten as you prefer.
-
 - Experienced in manual testing (functional, usability, exploratory)
 - Training: Software Test Automation & CI (Selenium WebDriver, Cucumber, Postman)
 - Currently studying BSc Computer Science
