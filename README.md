@@ -5,7 +5,7 @@
 
 # Agnes Lilla Ladoczki-Szabo — Freelancer Software Tester
 
-> I focus on high-quality manual testing and am building skills in test automation and CI/CD. I take on freelance testing projects (uTest / Testbirds) and I'm studying Computer Science (BSc) via distance learning.
+> I focus on high-quality manual testing and am building skills in test automation and CI/CD. I take on freelance testing projects (uTest / Testbirds) and I'm studying Computer Science (BSc) via remote learning.
 
 [![Download CV](https://img.shields.io/badge/Download-CV%20(PDF)-green?style=flat-square)](./assets/CV.pdf)  [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat-square)](mailto:agneslilla.szabo@gmail.com)
 
