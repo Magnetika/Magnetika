@@ -97,6 +97,6 @@ Updated: 2025-12-11
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Magnetika)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Magnetika&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 
