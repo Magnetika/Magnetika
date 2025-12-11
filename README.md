@@ -41,8 +41,6 @@ testing.
 (Format: Project name / Short description / Link — replace these with your projects.)
 ---
 
-## Download
-
 [Download: CV (PDF)](assets/AgnesCV.pdf)
 ---
 
