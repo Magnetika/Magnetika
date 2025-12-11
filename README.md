@@ -64,9 +64,9 @@ Short summary of your background and goals. Replace or shorten as you prefer.
     </td>
     <td align="center" width="33%">
       <img src="./assets/project5.svg" alt="project5" width="220" />
-      <p><strong>[PROJECT_NAME_5]</strong></p>
-      <p>[Short description 5]</p>
-      <p><a href="https://github.com/[YOUR]/[PROJECT5]">Repository</a></p>
+      <p><strong>Final Assignment</strong></p>
+      <p>Automated web tests implemented in Java using Selenium WebDriver and Cucumber (BDD-style test automation).</p>
+      <p><a href="https://github.com/Magnetika/Final-Assignment">Repository</a></p>
     </td>
     <td align="center" width="33%">
       <img src="./assets/project6.svg" alt="project6" width="220" />
