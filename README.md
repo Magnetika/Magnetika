@@ -43,7 +43,7 @@ testing.
 
 ## Download
 
-[Download: CV (PDF)](./assets/CV.pdf)  ← Upload your CV PDF to the `assets` folder or update the link.
+[Download: CV (PDF)](assets/AgnesCV.pdf)
 ---
 
 ## Contact
