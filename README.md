@@ -96,3 +96,7 @@
 Updated: 2025-12-11
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Magnetika)](https://git.io/streak-stats)
+
+
