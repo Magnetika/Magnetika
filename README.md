@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Hero: Agnes Lilla" width="760" />
+  <img src="./assets/hero.png" alt="Hero: Agnes Lilla" width="760" />
 </p>
 
 # Agnes Lilla Ladoczki-Szabo — Freelancer Software Tester
