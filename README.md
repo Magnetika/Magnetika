@@ -3,9 +3,22 @@
   <img src="./assets/hero.png" alt="Hero: Agnes Lilla" width="760" />
 </p>
 
-> I focus on high-quality manual testing and am building skills in test automation and CI/CD. I take on freelance testing projects (uTest / Testbirds) and I'm studying Computer Science (BSc) via remote learning.
+> Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
+> During this time, I gained hands-on experience through freelance manual testing projects,
+> primarily via uTest.com and Testbirds.com. These projects involved executing test cases
+> as well as exploratory testing, focusing on functional and usability aspects of various
+> products.
+> In the past year, I completed the Software Test Automation and Continuous Integration
+> course at the University of Malta. This course provided me with a solid foundation in test
+> automation, including hands-on experience with tools such as Selenium WebDriver,
+> Cucumber, and Postman, as well as an introduction to the basics of CI/CD pipelines.
+> I am currently pursuing a Bachelor of Science in Computer Science through remote
+> learning, which predominantly requires weekend commitment. This flexible arrangement
+> allows me to dedicate my time to a full-time junior testing or developer position where I
+> can combine my acquired knowledge with practical experience and contribute to high
+> quality software development.
 
-[![Download CV](https://img.shields.io/badge/Download-CV%20(PDF)-green?style=flat-square)](./assets/CV.pdf)  [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat-square)](mailto:agneslilla.szabo@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download-CV%20(PDF)-green?style=flat-square)](./assets/AgnesCV.pdf)  [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat-square)](mailto:agneslilla.szabo@gmail.com)
 
 ---
 
