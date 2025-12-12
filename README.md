@@ -7,7 +7,7 @@
 		<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" />
 	</a>
 	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
-		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" style="height: 200px; width: auto; object-fit: contain;" />
+		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" style="height: 190px; width: auto; object-fit: contain;" />
 	</a>
 </div>
 
