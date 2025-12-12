@@ -2,9 +2,20 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
 
 
-[![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true)](https://github.com/Magnetika/github-readme-stats)
-
-[![Magnetika's Top Languages](https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/Magnetika/github-readme-stats">
+				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" alt="Magnetika's GitHub stats" />
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/Magnetika/github-readme-stats">
+				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" alt="Magnetika's Top Languages" />
+			</a>
+		</td>
+	</tr>
+</table>
 
 [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
