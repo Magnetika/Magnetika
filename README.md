@@ -1,6 +1,10 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
 
+
+[![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true)](https://github.com/Magnetika/github-readme-stats)
+
+
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
 > During this time, I gained hands-on experience through freelance manual testing projects.
 > These projects involved executing test cases as well as exploratory testing, focusing on
@@ -94,4 +98,3 @@ Updated: 2025-12-11
 
 
 
-[![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true)](https://github.com/Magnetika/github-readme-stats)
