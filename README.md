@@ -93,5 +93,4 @@
 Updated: 2025-12-11
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnetika)](https://github.com/Magnetika/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnetika&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
