@@ -6,12 +6,12 @@
 	<tr>
 		<td>
 			<a href="https://github.com/Magnetika/github-readme-stats">
-				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" alt="Magnetika's GitHub stats" />
+				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true&hide_border=true" alt="Magnetika's GitHub stats" />
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/Magnetika/github-readme-stats">
-				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" alt="Magnetika's Top Languages" />
+				<img src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight&hide_border=true" alt="Magnetika's Top Languages" />
 			</a>
 		</td>
 	</tr>
