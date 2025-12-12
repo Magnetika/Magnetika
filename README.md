@@ -94,4 +94,4 @@ Updated: 2025-12-11
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnetika)](https://github.com/Magnetika/github-readme-stats)
