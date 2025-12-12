@@ -14,8 +14,7 @@
 <!-- [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
 
 
-[![trophy](https://github-profile-trophy-nu-dusky.vercel.app/?username=Magnetika)](https://github.com/Magnetika/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Magnetika&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
