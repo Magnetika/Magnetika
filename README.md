@@ -52,48 +52,7 @@
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="./assets/project1.svg" alt="project1" width="220" />
-      <p><strong>FrontEnd Application Development with React</strong></p>
-      <p>Ongoing: coursework and projects building React applications as part of the curriculum.</p>
-      <p><a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">Repository</a> · **Status:** <strong>In progress</strong></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/project2.svg" alt="project2" width="220" />
-      <p><strong>BringMeHome</strong></p>
-      <p>A small unik project to help locate and manage pet information (HTML,CSS,Bootstrap,Javascript).</p>
-      <p><a href="https://github.com/szludora/BringMeHome">Repository</a></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/project3.svg" alt="project3" width="220" />
-      <p><strong>Responsive Web Design — freeCodeCamp</strong></p>
-      <p>Collection of responsive web design projects and exercises (freeCodeCamp curriculum).</p>
-      <p><a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="./assets/project4.svg" alt="project4" width="220" />
-      <p><strong>Python — Zero to Hero</strong></p>
-      <p>Exercises and small projects covering Python fundamentals up to intermediate topics.</p>
-      <p><a href="https://github.com/Magnetika/Python_zero_to_hero">Repository</a></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/project5.svg" alt="project5" width="220" />
-      <p><strong>Final Assignment</strong></p>
-      <p>Automated web tests implemented in Java using Selenium WebDriver and Cucumber (BDD-style test automation).</p>
-      <p><a href="https://github.com/Magnetika/Final-Assignment">Repository</a></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/project6.svg" alt="project6" width="220" />
-      <p><strong>The Complete 2024 Web Dev Bootcamp</strong></p>
-      <p>Collection of exercises and projects from the 2024 full-stack web development bootcamp.</p>
-      <p><a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">Repository</a></p>
-    </td>
-  </tr>
-</table>
+[![Magnetika's Project](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
 ---
 
