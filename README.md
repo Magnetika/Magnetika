@@ -2,20 +2,14 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=820" alt="GitHub Streak" /></a>
 
 
-
-  <a href="https://github.com/Magnetika/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" height="195" />
-  </a>
-  <a href="https://github.com/Magnetika/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&theme=tokyonight&layout=compact" height="195" />
-  </a>
-
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Magnetika&theme=tokyonight&column=8&margin-w=15" alt="trophy" />
-  </a>
-</p>
-
+<div style="display:flex; gap:12px; align-items:flex-start;">
+	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
+		<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" />
+	</a>
+	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
+		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" style="height: 195px; width: auto; object-fit: contain;" />
+	</a>
+</div>
 
 <!-- [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
 
