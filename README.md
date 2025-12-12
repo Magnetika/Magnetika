@@ -60,18 +60,19 @@
 ## Featured projects
 
 
-<a href="https://github.com/Magnetika/github-readme-stats">
+<a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
 </a>
-<a href="https://github.com/Magnetika/github-readme-stats">
+<a href="https://github.com/Magnetika/Final-Assignment">
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
 </a>
-<a href="https://github.com/Magnetika/github-readme-stats">
+<a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight" />
 </a>
-<a href="https://github.com/Magnetika/github-readme-stats">
+<a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight" />
 </a>
+
 ---
 
 ## Skills & tools
