@@ -2,20 +2,14 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=820" alt="GitHub Streak" /></a>
 
 
-<table>
-	<tr>
-		<td width="50%" align="center">
-			<a href="https://github.com/Magnetika/github-readme-stats">
-				<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" />
-			</a>
-		</td>
-		<td width="50%" align="center">
-			<a href="https://github.com/Magnetika/github-readme-stats">
-				<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" />
-			</a>
-		</td>
-	</tr>
-</table>
+<div style="display:flex; gap:12px; align-items:flex-start;">
+	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
+		<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" />
+	</a>
+	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
+		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" style="height: 195px; width: auto; object-fit: contain;" />
+	</a>
+</div>
 
 <!-- [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
 
@@ -63,20 +57,12 @@
 ## Featured projects
 
 
-<table>
-	<tr>
-		<td width="50%" align="center">
-			<a href="https://github.com/Magnetika/github-readme-stats">
-			  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
-			</a>
-		</td>
-		<td width="50%" align="center">
-			<a href="https://github.com/Magnetika/github-readme-stats">
-			  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
-			</a>
-		</td>
-	</tr>
-</table>
+<a href="https://github.com/Magnetika/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
+</a>
+<a href="https://github.com/Magnetika/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
+</a>
 
 ---
 
