@@ -92,4 +92,3 @@
 
 Updated: 2025-12-11
 
-(https://github-profile-trophy.vercel.app/?user=Magnetika-ma&theme=tokyonight)(https://github.com/Magnetika/github-profile-trophy)
