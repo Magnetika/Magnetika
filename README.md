@@ -94,4 +94,4 @@ Updated: 2025-12-11
 
 
 
-[![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika)](https://github.com/Magnetika/github-readme-stats)
+[![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true)](https://github.com/Magnetika/github-readme-stats)
