@@ -23,16 +23,17 @@
 > During this time, I gained hands-on experience through freelance manual testing projects.
 > These projects involved executing test cases as well as exploratory testing, focusing on
 > functional and usability aspects of various products.
+
 > In the past year, I completed the Software Test Automation and Continuous Integration
 > course at the University of Malta. This course provided me with a solid foundation in test
 > automation, including hands-on experience with tools such as Selenium WebDriver,
 > Cucumber, and Postman, as well as an introduction to the basics of CI/CD pipelines.
+
 > I am currently pursuing a Bachelor of Science in Computer Science through remote
 > learning, which predominantly requires weekend commitment. This flexible arrangement
 > allows me to dedicate my time to a full-time junior testing or developer position where I
 > can combine my acquired knowledge with practical experience and contribute to high
 > quality software development.
-
 
 ---
 
