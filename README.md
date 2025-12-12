@@ -4,6 +4,15 @@
 
 [![Magnetika's GitHub stats](https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true)](https://github.com/Magnetika/github-readme-stats)
 
+[![Magnetika's Top Languages](https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+
+[![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+
+[![Magnetika's Project](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=REPOT_NEVE&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+
+[![Magnetika's Gist Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/gist?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+
+
 
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
 > During this time, I gained hands-on experience through freelance manual testing projects.
