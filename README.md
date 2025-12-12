@@ -66,7 +66,12 @@
 <a href="https://github.com/Magnetika/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/Magnetika/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight" />
+</a>
+<a href="https://github.com/Magnetika/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp=tokyonight" />
+</a>
 ---
 
 ## Skills & tools
