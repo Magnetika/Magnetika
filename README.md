@@ -8,7 +8,7 @@
 
 [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
-[![Magnetika's Project](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=REPOT_NEVE&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
+[![Magnetika's Project](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
 [![Magnetika's Gist Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/gist?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
