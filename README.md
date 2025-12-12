@@ -1,5 +1,5 @@
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Magnetika&theme=tokyonight-duo&border_radius=4&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
 
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
 > During this time, I gained hands-on experience through freelance manual testing projects.
