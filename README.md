@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Tokyo Night Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes_Lilla_Ladoczki-Szabo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Tester%20%7C%20Developer%20in%20Progress&descAlignY=55&descSize=20" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Tester%20%7C%20Developer%20in%20Progress&descAlignY=55&descSize=20" alt="header"/>
 
 </div>
 
