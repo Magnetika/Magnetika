@@ -58,12 +58,8 @@
   <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
 </a>
 <a href="https://github.com/Magnetika/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignmentt&theme=tokyonight" />
 </a>
-
-
-
-[![Magnetika's Project](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats)
 
 ---
 
