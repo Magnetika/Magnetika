@@ -4,10 +4,9 @@
 </p>
 
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
-> During this time, I gained hands-on experience through freelance manual testing projects,
-> primarily via uTest.com and Testbirds.com. These projects involved executing test cases
-> as well as exploratory testing, focusing on functional and usability aspects of various
-> products.
+> During this time, I gained hands-on experience through freelance manual testing projects.
+> These projects involved executing test cases as well as exploratory testing, focusing on
+> functional and usability aspects of various products.
 > In the past year, I completed the Software Test Automation and Continuous Integration
 > course at the University of Malta. This course provided me with a solid foundation in test
 > automation, including hands-on experience with tools such as Selenium WebDriver,
