@@ -18,6 +18,10 @@
 
 [![trophy](https://github-profile-trophy-nu-dusky.vercel.app/?username=Magnetika&theme=tokyonight&rank=-?&column=8)](https://github.com/Magnetika/github-profile-trophy)
 
+[![Magnetika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Magnetika&theme=tokyo-night)](https://github.com/Magnetika/github-readme-activity-graph)
+
+
+
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
 > During this time, I gained hands-on experience through freelance manual testing projects.
 > These projects involved executing test cases as well as exploratory testing, focusing on
