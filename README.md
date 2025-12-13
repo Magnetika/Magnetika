@@ -58,7 +58,7 @@
 
 ## Featured projects
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
       <a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">
