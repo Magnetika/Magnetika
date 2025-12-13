@@ -21,6 +21,7 @@
 [![Magnetika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Magnetika&theme=tokyo-night)](https://github.com/Magnetika/github-readme-activity-graph)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=200&lines=Overview)](https://git.io/typing-svg)
 
 > Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
 > During this time, I gained hands-on experience through freelance manual testing projects.
