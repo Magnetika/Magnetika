@@ -1,4 +1,3 @@
-<div align="center">
 <!-- Tokyo Night Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Tester%20%7C%20Developer%20in%20Progress&descAlignY=55&descSize=20" alt="header"/>
 </div>
@@ -59,19 +58,20 @@
 
 ## Featured projects
 
-
-<a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">
-  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
-</a>
-<a href="https://github.com/Magnetika/Final-Assignment">
-  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
-</a>
-<a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">
-  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight" />
-</a>
-<a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">
-  <img align="center" src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight" />
-</a>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; max-width: 100%;">
+  <a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React" style="display: block; min-width: 0;">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/Magnetika/Final-Assignment" style="display: block; min-width: 0;">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign" style="display: block; min-width: 0;">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight" style="width: 100%; height: auto;" />
+  </a>
+  <a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp" style="display: block; min-width: 0;">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 ---
 
