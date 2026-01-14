@@ -65,19 +65,19 @@
 
 <p align="center">
   <a href="https://github.com/Magnetika/CodeChallange">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=CodeChallange&theme=tokyonight&description_lines_count=3" height="130" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=CodeChallange&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
   <a href="https://github.com/Magnetika/Final-Assignment">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight&description_lines_count=3" height="130" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight&description_lines_count=3" height="130" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
   <a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight&description_lines_count=3" height="130" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
