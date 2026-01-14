@@ -64,8 +64,8 @@
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/Magnetika/FrontEnd-Application-Development-with-React">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=FrontEnd-Application-Development-with-React&theme=tokyonight" />
+  <a href="https://github.com/Magnetika/CodeChallange">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=CodeChallange&theme=tokyonight" />
   </a>
   <a href="https://github.com/Magnetika/Final-Assignment">
     <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight" />
