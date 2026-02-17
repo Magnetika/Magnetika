@@ -86,6 +86,7 @@
 ## Skills & tools
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat-square)]() [![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat-square)]() [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)]() [![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)]() [![Manual Testing](https://img.shields.io/badge/Manual_Testing-grey?style=flat-square)]() [![BDD](https://img.shields.io/badge/BDD-Cucumber-green?style=flat-square)]() [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-black?style=flat-square)]() [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+ [![SwaggerUI](https://img.shields.io/badge/SwaggerUI-%23F3F3F3?style=flat-square&logo=swagger&logoColor=green)]() [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)]() [![Playwright](https://img.shields.io/badge/Playwright-%2300B300?style=flat-square&logo=playwright&logoColor=white)]() [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white)]()
 
 ---
 
