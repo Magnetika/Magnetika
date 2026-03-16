@@ -81,20 +81,7 @@
   </a>
 </p>
 
-<!-- <p align="center"> -->
-  <!-- <a href="https://github.com/Magnetika/Task-manager-app"> -->
-    ```html
-    <!-- <a href="https://github.com/Magnetika/Task-manager-app">
-      <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Task-manager-app&theme=tokyonight&description_lines_count=3" height="150" />
-    </a> -->
-    ```
-  <!-- </a> -->
-  <!-- <a href="https://github.com/Magnetika/ecommerce-playwright-tests"> -->
-    ```html
-    <!-- <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=ecommerce-playwright-tests&theme=tokyonight&description_lines_count=3" height="150" /> -->
-    ```
-  <!-- </a> -->
-<!-- </p> -->
+
 ---
 
 ## Skills & tools
