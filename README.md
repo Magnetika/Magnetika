@@ -67,20 +67,34 @@
   <a href="https://github.com/Magnetika/CodeChallange">
     <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=CodeChallange&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
-  <a href="https://github.com/Magnetika/Final-Assignment">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Final-Assignment&theme=tokyonight&description_lines_count=3" height="150" />
+  <a href="https://github.com/Magnetika/QA-Automation-Framework">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=QA-Automation-Framework&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Magnetika/freecodecamp--Responsive-Webdesign">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=freecodecamp--Responsive-Webdesign&theme=tokyonight&description_lines_count=3" height="150" />
+  <a href="https://github.com/Magnetika/Task-manager-app">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Task-manager-app&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
-  <a href="https://github.com/Magnetika/Thecomplete2024WebDevBootcamp">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Thecomplete2024WebDevBootcamp&theme=tokyonight&description_lines_count=3" height="150" />
+  <a href="https://github.com/Magnetika/ecommerce-playwright-tests">
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=ecommerce-playwright-tests&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
+<!-- <p align="center"> -->
+  <!-- <a href="https://github.com/Magnetika/Task-manager-app"> -->
+    ```html
+    <!-- <a href="https://github.com/Magnetika/Task-manager-app">
+      <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Task-manager-app&theme=tokyonight&description_lines_count=3" height="150" />
+    </a> -->
+    ```
+  <!-- </a> -->
+  <!-- <a href="https://github.com/Magnetika/ecommerce-playwright-tests"> -->
+    ```html
+    <!-- <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=ecommerce-playwright-tests&theme=tokyonight&description_lines_count=3" height="150" /> -->
+    ```
+  <!-- </a> -->
+<!-- </p> -->
 ---
 
 ## Skills & tools
