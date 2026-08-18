@@ -23,20 +23,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=200&lines=Overview)](https://git.io/typing-svg)
 
-> Over the past few years, I have focused on expanding my knowledge in software development and IT.
-> I have gained hands-on experience through freelance QA and testing projects, where I worked
-> on web applications and APIs, performed exploratory testing, and documented defects in
-> collaboration with development teams.
+> Software Engineer with a strong QA background and a growing focus on API and integration development.
+> I am currently part of EPAM’s API & Integration Internship Program, where I am building my
+> skills in MuleSoft and enterprise integration technologies.
 
-> In the past year, I completed the Software Test Automation and Continuous Integration course at
-> the University of Malta. This strengthened my foundation in test automation, including practical
-> experience with Selenium WebDriver, Cucumber, and Postman, as well as an introduction to
-> CI/CD concepts.
+> My technical foundation includes Java, Spring Boot, React, REST APIs, Git, and CI/CD concepts.
+> I am especially interested in understanding how different systems communicate, solving
+> integration challenges, and developing reliable software solutions.
 
-> I am currently pursuing a Bachelor of Science in Computer Science while developing my skills in
-> API and integration technologies through EPAM’s API & Integration Internship Program. I am
-> particularly interested in MuleSoft, REST APIs, and understanding how different systems
-> communicate reliably in modern enterprise environments.
+> Before transitioning into software development, I spent three years working as a freelance Software
+> QA Engineer, where I gained hands-on experience in manual testing, test automation, and API
+> testing using Selenium WebDriver, Playwright, Postman, and Swagger. This background gave me a
+> quality-focused mindset and strengthened my attention to edge cases, system behavior, and
+> reliability from the early stages of development.
+
+> I am currently completing a BSc in Computer Science and continuously expanding my knowledge
+> in software engineering, APIs, and integration best practices.
 
 ---
 
@@ -53,12 +55,12 @@
 ## Work Experience
 
 
-**Freelance Software QA Engineer**
-
+**Software Engineer at Epam Systems**
+2026 - 
 
 
 **Freelance Software QA Engineer**  
-2023 – 2025
+2023 – 2026
 
 - Worked on freelance testing projects focused on web applications and APIs.
 - Performed manual testing, exploratory testing, and regression testing to identify defects and improve software reliability.
@@ -99,7 +101,7 @@
 
 ---
 
-Updated: 2025-12-12 
+Updated: 2026-08-18 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magnetika/Magnetika/output/github-contribution-grid-snake-dark.svg">
