@@ -1,5 +1,5 @@
 <!-- Tokyo Night Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Tester%20%7C%20Developer%20in%20Progress&descAlignY=55&descSize=20" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Engineer%20%7C%20API%20%26%20Integration&descAlignY=55&descSize=20" alt="header"/>
 </div>
 
 <a href="https://github.com/Magnetika/github-readme-streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=820" alt="GitHub Streak" /></a>
@@ -23,41 +23,49 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=200&lines=Overview)](https://git.io/typing-svg)
 
-> Over the past few years, I have placed a strong emphasis on expanding my IT knowledge.
-> During this time, I gained hands-on experience through freelance manual testing projects.
-> These projects involved executing test cases as well as exploratory testing, focusing on
-> functional and usability aspects of various products.
+> Over the past few years, I have focused on expanding my knowledge in software development and IT.
+> I have gained hands-on experience through freelance QA and testing projects, where I worked
+> on web applications and APIs, performed exploratory testing, and documented defects in
+> collaboration with development teams.
 
-> In the past year, I completed the Software Test Automation and Continuous Integration
-> course at the University of Malta. This course provided me with a solid foundation in test
-> automation, including hands-on experience with tools such as Selenium WebDriver,
-> Cucumber, and Postman, as well as an introduction to the basics of CI/CD pipelines.
+> In the past year, I completed the Software Test Automation and Continuous Integration course at
+> the University of Malta. This strengthened my foundation in test automation, including practical
+> experience with Selenium WebDriver, Cucumber, and Postman, as well as an introduction to
+> CI/CD concepts.
 
-> I am currently pursuing a Bachelor of Science in Computer Science through remote
-> learning, which predominantly requires weekend commitment. This flexible arrangement
-> allows me to dedicate my time to a full-time junior testing or developer position where I
-> can combine my acquired knowledge with practical experience and contribute to high
-> quality software development.
+> I am currently pursuing a Bachelor of Science in Computer Science while developing my skills in
+> API and integration technologies through EPAM’s API & Integration Internship Program. I am
+> particularly interested in MuleSoft, REST APIs, and understanding how different systems
+> communicate reliably in modern enterprise environments.
 
 ---
 
 ## Summary
 
-- Experienced in manual testing (functional, usability, exploratory)
-- Software Test Automation & CI/CD (Java17, Selenium WebDriver, Cucumber, Postman)
-- Building web applications with HTML, CSS, JavaScript, React
-- Currently studying BSc Computer Science
+- Software Engineer focused on API and integration development
+- Learning MuleSoft and enterprise integration technologies through EPAM’s API & Integration Internship Program
+- Experience with Java, Spring Boot, React, REST APIs, Git, and CI/CD concepts
+- Strong background in Software QA, test automation, and API testing (Selenium WebDriver, Playwright, Postman, Swagger)
+- Currently pursuing BSc in Computer Science
 
 ---
 
 ## Work Experience
 
-**Freelance Software Tester**  
+
+**Freelance Software QA Engineer**
+
+
+
+**Freelance Software QA Engineer**  
 2023 – 2025
 
-- Executed manual testing projects via crowdsourcing platforms (uTest, Testbirds).
-- Performed functional and usability testing and exploratory testing to surface defects.
-- Logged, tracked and reported issues; collaborated with development teams.
+- Worked on freelance testing projects focused on web applications and APIs.
+- Performed manual testing, exploratory testing, and regression testing to identify defects and improve software reliability.
+- Automated browser and UI tests using Selenium WebDriver and Playwright.
+- Validated REST APIs with Postman and Swagger, checking functionality, edge cases, and error handling.
+- Logged, tracked, and reported issues while collaborating closely with developers in Agile environments.
+- Applied a quality-focused mindset to software development by emphasizing reliability, usability, and system behavior.
 
 ---
 
