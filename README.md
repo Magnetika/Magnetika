@@ -1,5 +1,5 @@
 <!-- Tokyo Night Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Engineer%20%7C%20API%20%26%20Integration&descAlignY=55&descSize=20)
+![Header](./assets/header.png)
 
 <a href="https://github.com/Magnetika/github-readme-streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&amp;theme=tokyonight&amp;short_numbers=true&amp;mode=weekly&amp;card_width=820" alt="GitHub Streak" /></a>
 
