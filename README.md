@@ -1,26 +1,27 @@
 <!-- Tokyo Night Animated Header -->
-![Header](./assets/header.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Agnes%20Lilla%20Ladoczki-Szabo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=7aa2f7&desc=Software%20Tester%20%7C%20Developer%20in%20Progress&descAlignY=55&descSize=20" alt="header"/>
+</div>
 
-<a href="https://github.com/Magnetika/github-readme-streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&amp;theme=tokyonight&amp;short_numbers=true&amp;mode=weekly&amp;card_width=820" alt="GitHub Streak" /></a>
+<a href="https://github.com/Magnetika/github-readme-streak-stats"><img src="https://github-readme-streak-stats-lemon-iota.vercel.app?user=Magnetika&theme=tokyonight&short_numbers=true&mode=weekly&card_width=820" alt="GitHub Streak" /></a>
 
 <div style="display:flex; gap:12px; align-items:flex-start;">
 	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
-		<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&amp;theme=tokyonight&amp;show_icons=true" />
+		<img alt="Magnetika's GitHub stats" src="https://github-readme-stats-sigma-six-98.vercel.app/api?username=Magnetika&theme=tokyonight&show_icons=true" />
 	</a>
 	<a href="https://github.com/Magnetika/github-readme-stats" style="flex:1;">
-		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&amp;layout=compact&amp;theme=tokyonight" style="height: 195px; width: auto; object-fit: contain;" />
+		<img alt="Magnetika's Top Languages" src="https://github-readme-stats-sigma-six-98.vercel.app/api/top-langs/?username=Magnetika&layout=compact&theme=tokyonight" style="height: 195px; width: auto; object-fit: contain;" />
 	</a>
 </div>
 
 <!-- [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
 
 
-[![trophy](https://github-profile-trophy-nu-dusky.vercel.app/?username=Magnetika&amp;theme=tokyonight&amp;rank=-?&amp;column=8)](https://github.com/Magnetika/github-profile-trophy)
+[![trophy](https://github-profile-trophy-nu-dusky.vercel.app/?username=Magnetika&theme=tokyonight&rank=-?&column=8)](https://github.com/Magnetika/github-profile-trophy)
 
-[![Magnetika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Magnetika&amp;theme=tokyo-night)](https://github.com/Magnetika/github-readme-activity-graph)
+[![Magnetika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Magnetika&theme=tokyo-night)](https://github.com/Magnetika/github-readme-activity-graph)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=false&amp;vCenter=true&amp;width=200&amp;lines=Overview)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=200&lines=Overview)](https://git.io/typing-svg)
 
 > Software Engineer with a strong QA background and a growing focus on API and integration development.
 > I am currently part of EPAM’s API and Integration Internship Program, where I am building my
@@ -66,7 +67,6 @@
 - Performed manual testing, exploratory testing, and regression testing to identify defects and improve software reliability.
 - Automated browser and UI tests using Selenium WebDriver and Playwright.
 - Validated REST APIs with Postman and Swagger, checking functionality, edge cases, and error handling.
-- Logged, tracked, and reported issues while collaborating closely with developers in Agile environments.
 - Applied a quality-focused mindset to software development by emphasizing reliability, usability, and system behavior.
 
 ---
@@ -75,19 +75,19 @@
 
 <p align="center">
   <a href="https://github.com/Magnetika/CodeChallange">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&amp;repo=CodeChallange&amp;theme=tokyonight&amp;description_lines_count=3" height="150" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=CodeChallange&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
   <a href="https://github.com/Magnetika/QA-Automation-Framework">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&amp;repo=QA-Automation-Framework&amp;theme=tokyonight&amp;description_lines_count=3" height="150" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=QA-Automation-Framework&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Magnetika/Task-manager-app">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&amp;repo=Task-manager-app&amp;theme=tokyonight&amp;description_lines_count=3" height="150" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=Task-manager-app&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
   <a href="https://github.com/Magnetika/ecommerce-playwright-tests">
-    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&amp;repo=ecommerce-playwright-tests&amp;theme=tokyonight&amp;description_lines_count=3" height="150" />
+    <img src="https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=Magnetika&repo=ecommerce-playwright-tests&theme=tokyonight&description_lines_count=3" height="150" />
   </a>
 </p>
 
@@ -96,8 +96,8 @@
 
 ## Skills and tools
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat-square)]() [![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat-square)]() [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)]() [![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)]() [![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&amp;logo=python&amp;logoColor=white)]() [![Manual Testing](https://img.shields.io/badge/Manual_Testing-grey?style=flat-square)]() [![BDD](https://img.shields.io/badge/BDD-Cucumber-green?style=flat-square)]() [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-black?style=flat-square)]() [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)]()
- [![SwaggerUI](https://img.shields.io/badge/SwaggerUI-%23F3F3F3?style=flat-square&amp;logo=swagger&amp;logoColor=green)]() [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)]() [![Playwright](https://img.shields.io/badge/Playwright-%2300B300?style=flat-square&amp;logo=playwright&amp;logoColor=white)]() [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-orange?style=flat-square)]() [![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat-square)]() [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)]() [![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)]() [![Manual Testing](https://img.shields.io/badge/Manual_Testing-grey?style=flat-square)]() [![BDD](https://img.shields.io/badge/BDD-Cucumber-green?style=flat-square)]() [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-black?style=flat-square)]() [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+ [![SwaggerUI](https://img.shields.io/badge/SwaggerUI-%23F3F3F3?style=flat-square&logo=swagger&logoColor=green)]() [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)]() [![Playwright](https://img.shields.io/badge/Playwright-%2300B300?style=flat-square&logo=playwright&logoColor=white)]() [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white)]()
 
 ---
 
@@ -111,5 +111,5 @@ Updated: 2026-08-18
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Magnetika&amp;style=for-the-badge&amp;color=7aa2f7&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Magnetika&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
