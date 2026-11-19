@@ -13,7 +13,7 @@
 	</a>
 </div>
 
-<!-- [![Magnetika's WakaTime Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
+<!-- [![Magnetika's WakaTimess Stats](https://github-readme-stats-sigma-six-98.vercel.app/api/wakatime?username=Magnetika&theme=tokyonight)](https://github.com/Magnetika/github-readme-stats) -->
 
 
 [![trophy](https://github-profile-trophy-nu-dusky.vercel.app/?username=Magnetika&theme=tokyonight&rank=-?&column=8)](https://github.com/Magnetika/github-profile-trophy)
